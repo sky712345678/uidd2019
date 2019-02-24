@@ -1,0 +1,18 @@
+#header{
+  background-color:transparent;
+  margin:0;
+}
+
+#logo, #search{
+  width:20;
+  height:20;
+}
+
+#main{
+  margin:0px auto;
+  text-align:justify
+}
+
+#models, #showroom, #testdrive, #dealers{
+  font:12px arial, sans-serif;
+}
