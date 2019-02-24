@@ -5,14 +5,14 @@
 
 #logo{
   margin-left:5%;
-  width:8px;
-  height:8px;
+  width:2%;
+  height:2%;
 }
 
 #search{
   margin-right:5%;
-  width:8px;
-  height:8px;
+  width:2%;
+  height:2%;
 }
 
 #main{
@@ -74,6 +74,6 @@
 }
 
 #socialMedia>a{
-  width:4px;
-  height:4px;
+  width:1%;
+  height:1%;
 }
