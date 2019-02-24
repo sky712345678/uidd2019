@@ -1,6 +1,6 @@
 #header{
   background-color:transparent;
-  margin:0;
+  margin-top:0px;
 }
 
 #rollsRoyceIcon{
@@ -22,7 +22,7 @@
   text-align:justify;
 }
 
-#models, #showroom, #testdrive, #dealers{
+.navigate:link, .navigate:visited, .navigate:hover, .navigate:active{
   color:white;
   font-family:Helvetica, Arial, sans-serif;
   font-size:12px;
@@ -34,7 +34,7 @@
   margin-left:0%;
   margin-top:0%;
   margin-bottom:0%;
-  width:38%;
+  width:30%;
 }
 
 #currentPage, #totalPage{
@@ -58,7 +58,7 @@
   margin-right:0%;
   margin-top:0%;
   margin-bottom:0%;
-  width:62%;
+  width:70%;
 }
 
 #book{
