@@ -3,16 +3,77 @@
   margin:0;
 }
 
-#logo, #search{
-  width:20;
-  height:20;
+#logo{
+  margin-left:5%;
+  width:8px;
+  height:8px;
+}
+
+#search{
+  margin-right:5%;
+  width:8px;
+  height:8px;
 }
 
 #main{
   margin:0px auto;
-  text-align:justify
+  height:80px;
+  width:60%;
+  text-align:justify;
 }
 
 #models, #showroom, #testdrive, #dealers{
-  font:12px arial, sans-serif;
+  color:white;
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:12px;
+  font-style:normal;
+}
+
+#sidebarLeft{
+  background-color:#e4dcce;
+  margin-left:0%;
+  margin-top:0%;
+  margin-bottom:0%;
+  width:38%;
+}
+
+#currentPage, #totalPage{
+  color:white;
+}
+
+#pages{
+  margin-top:15%;
+  margin-left:0%;
+}
+
+#content{
+  color:white;
+  margin-top:15%;
+  margin-left:5%;
+}
+
+#body{
+  background-image:"https://glewqw.by.files.1drv.com/y4m93NmQVG7tiFRt4X7uqt4Rfzc8UIKExsU76zMN5LV977E2ou1uKzfHOTlQ8W6HEEzLGIDd36Tc4uh4Y34n_eH8-q6_St5UyynLuiN6YxExrWiKMD5rR1l5CevhlghS0wElXHiLUrq1KI5F4n2wPkJmDloIPHj_m2pDOL2uf1n6iFNz-630rS9uSmUfkCp43doEbaQ5NUJiV62bxkKWEuTdQ?width=2003&height=1469&cropmode=none";
+  background-size:cover;
+  margin-right:0%;
+  margin-top:0%;
+  margin-bottom:0%;
+  width:62%;
+}
+
+#book{
+  color:white;
+  transform:rotate(-90deg);
+  margin-bottom:15%;
+}
+
+#keep{
+  color:white;
+  margin-top:15%;
+  transform:rotate(-90deg);
+}
+
+#socialMedia>a{
+  width:4px;
+  height:4px;
 }
