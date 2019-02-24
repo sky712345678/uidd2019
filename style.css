@@ -3,6 +3,7 @@
   margin-top:0%;
   margin-left:0%;
   margin-right:0%;
+  z-index:0;
 }
 
 #rollsRoyceIcon{
@@ -12,6 +13,7 @@
 }
 
 #searchIcon{
+  float:right;
   margin-right:0%;
   width:2%;
   height:2%;
@@ -37,6 +39,11 @@
   margin-top:0%;
   margin-bottom:0%;
   width:30%;
+  z-index:1;
+}
+
+#sidebarLeft>div{
+  display:inline;
 }
 
 #currentPage, #totalPage{
@@ -55,11 +62,12 @@
 }
 
 #body{
-  background-image:https://glewqw.by.files.1drv.com/y4m93NmQVG7tiFRt4X7uqt4Rfzc8UIKExsU76zMN5LV977E2ou1uKzfHOTlQ8W6HEEzLGIDd36Tc4uh4Y34n_eH8-q6_St5UyynLuiN6YxExrWiKMD5rR1l5CevhlghS0wElXHiLUrq1KI5F4n2wPkJmDloIPHj_m2pDOL2uf1n6iFNz-630rS9uSmUfkCp43doEbaQ5NUJiV62bxkKWEuTdQ?width=2003&height=1469&cropmode=none;
+  background-image:url("https://glewqw.by.files.1drv.com/y4m93NmQVG7tiFRt4X7uqt4Rfzc8UIKExsU76zMN5LV977E2ou1uKzfHOTlQ8W6HEEzLGIDd36Tc4uh4Y34n_eH8-q6_St5UyynLuiN6YxExrWiKMD5rR1l5CevhlghS0wElXHiLUrq1KI5F4n2wPkJmDloIPHj_m2pDOL2uf1n6iFNz-630rS9uSmUfkCp43doEbaQ5NUJiV62bxkKWEuTdQ?width=2003&height=1469&cropmode=none");
   background-size:cover;
   margin-right:0%;
   margin-top:0%;
   width:70%;
+  z-index:1;
 }
 
 #book{
@@ -74,7 +82,20 @@
   transform:rotate(-90deg);
 }
 
+#sidebarRight{
+  margin-right:0%;
+  margin-top:0%;
+  margin-bottom:0%;
+  width:5%;
+  z-index:1;
+}
+
+#sidebarLeft, #body, #sidebarRight{
+  display:inline;
+}
+
 #facebookIcon, #twitterIcon, #instagramIcon, #youtubeIcon{
-  width:1%;
-  height:1%;
+  width:2%;
+  height:2%;
+  z-index:2;
 }
