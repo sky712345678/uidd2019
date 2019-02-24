@@ -3,13 +3,13 @@
   margin:0;
 }
 
-#logo{
+#logo>img{
   margin-left:5%;
   width:2%;
   height:2%;
 }
 
-#search{
+#search>img{
   margin-right:5%;
   width:2%;
   height:2%;
@@ -73,7 +73,7 @@
   transform:rotate(-90deg);
 }
 
-#socialMedia>a{
+#facebook>img, #twitter>img, #instagram>img, #youtube>img{
   width:1%;
   height:1%;
 }
