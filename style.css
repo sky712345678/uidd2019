@@ -39,7 +39,7 @@
 }
 
 .navigate1{
-  margin-left:22%;
+  margin-left:21%;
 }
 
 #main{
@@ -104,7 +104,7 @@
 
 #statement>h2{
   font-size:10px;
-  line-height:10px
+  line-height:20px
 }
 
 #body{
@@ -130,7 +130,7 @@
   width:240px;
   position:absolute;
   bottom:30%;
-  right:-115%;
+  right:-125%;
   border-left-width:1px;
   border-left-style:solid;
   border-left-color:white;
@@ -150,7 +150,7 @@
   width:240px;
   position:absolute;
   top:30%;
-  right:-115%;
+  right:-125%;
 }
 
 #sidebarRight{
