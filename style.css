@@ -16,11 +16,6 @@
   z-index:2;
 }
 
-#rollsRoyceIcon{
-  width:10%;
-  height:10%;
-}
-
 #search{
   position:absolute;
   top:0%;
@@ -29,17 +24,12 @@
   z-index:2;
 }
 
-#searchIcon{
-  width:10%;
-  height:10%;
-}
-
 #links{
-  text-align:justify;
+  display:inline-block;
 }
 
 #main{
-  display:inline-block;
+  text-align:justify;
   background-color:transparent;
   margin:0px auto;
   height:5%;
@@ -52,6 +42,7 @@
   font-family:Arial, sans-serif;
   font-size:12px;
   font-style:normal;
+  text-decoration:none;
 }
 
 #sidebarLeft{
@@ -71,14 +62,14 @@
 
 #pages{
   position:absolute;
-  top:10%;
+  top:20%;
   left:0%;
 }
 
 #statement{
   position:absolute;
-  top:10%;
-  left:5%;
+  top:20%;
+  left:15%;
 }
 
 #body{
@@ -94,14 +85,18 @@
 
 #book{
   color:white;
+  display:block;
   transform:rotate(-90deg);
-  margin-bottom:15%;
+  position:absolute;
+  top:20%;
 }
 
 #keep{
   color:white;
-  margin-top:15%;
+  display:block;
   transform:rotate(-90deg);
+  position:absolute;
+  bottom:20%;
 }
 
 #sidebarRight{
