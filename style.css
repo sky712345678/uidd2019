@@ -37,7 +37,7 @@
 }
 
 .navigate1{
-  margin-left:121.79px;
+  margin-left:24.494%;
 }
 
 #main{
@@ -45,6 +45,8 @@
   margin:0px auto;
   height:5%;
   width:60%;
+  position:absolute;
+  top:2.5%;
   z-index:3;
 }
 
@@ -81,7 +83,7 @@
 #statement{
   position:absolute;
   top:20%;
-  left:25%;
+  left:20%;
 }
 
 #body{
@@ -93,6 +95,10 @@
   width:70%;
   height:100%;
   z-index:0;
+}
+
+.sideLink{
+  text-align:center;
 }
 
 #book{
@@ -129,6 +135,8 @@
 #socialMedia{
   position:absolute;
   bottom:5%;
+  width:20px;
+  height:20px;
   z-index:1;
 }
 
@@ -136,14 +144,17 @@
 #facebookIcon, #twitterIcon{
   width:20px;
   height:20px;
+  text-decoration:none;
 }
 
 #instagramIcon{
   width:10px;
   height:10px;
+  text-decoration:none;
 }
 
 #youtubeIcon{
   width:36px;
   height:27px;
+  text-decoration:none;
 }
