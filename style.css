@@ -20,6 +20,7 @@
 #rollsRoyceIcon{
   width:35px;
   height:35px;
+  margin:auto;
 }
 
 #search{
@@ -43,7 +44,7 @@
 #main{
   background-color:transparent;
   margin:2.5% auto;
-  height:5%;
+  height:3%;
   width:60%;
   z-index:3;
 }
@@ -107,7 +108,16 @@
   width:180px;
   position:absolute;
   bottom:30%;
-  right:100%;
+  right:-100%;
+  border-left-width:1px;
+  border-left-style:solid;
+  border-left-color:white;
+  border-top-width:1px;
+  border-top-style:solid;
+  border-top-color:white;
+  border-right-width:1px;
+  border-right-style:solid;
+  border-right-color:white;
 }
 
 #keep{
@@ -118,7 +128,7 @@
   width:180px;
   position:absolute;
   top:30%;
-  right:100%;
+  right:-100%;
 }
 
 #sidebarRight{
@@ -131,6 +141,7 @@
 }
 
 #socialMedia{
+  display:inline-block;
   position:absolute;
   bottom:5%;
   width:20px;
