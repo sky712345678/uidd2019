@@ -75,6 +75,7 @@
 }
 
 #pages>h1{
+  font-size:32px;
   font-weight:300;
 }
 
@@ -96,6 +97,7 @@
 }
 
 #statement>h1{
+  font-size:32px;
   font-weight:300
 }
 
