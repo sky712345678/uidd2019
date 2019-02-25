@@ -39,7 +39,7 @@
 }
 
 .navigate1{
-  margin-left:232.79px;
+  margin-left:18%;
 }
 
 #main{
@@ -110,10 +110,11 @@
   font-size:12px;
   display:block;
   transform:rotate(-90deg);
-  width:240px;
+  width:300px;
   position:absolute;
   bottom:30%;
   right:-105%;
+  border-spacing:3px;
   border-left-width:1px;
   border-left-style:solid;
   border-left-color:white;
@@ -130,7 +131,7 @@
   font-size:12px;
   display:block;
   transform:rotate(-90deg);
-  width:240px;
+  width:300px;
   position:absolute;
   top:30%;
   right:-105%;
@@ -157,14 +158,20 @@
 #facebookIcon, #twitterIcon{
   width:20px;
   height:20px;
+  margin:auto;
+  text-decoration:none;
 }
 
 #instagramIcon{
-  width:10px;
-  height:10px;
+  width:12px;
+  height:12px;
+  margin:auto;
+  text-decoration:none;
 }
 
 #youtubeIcon{
   width:36px;
   height:27px;
+  margin:auto;
+  text-decoration:none;
 }
