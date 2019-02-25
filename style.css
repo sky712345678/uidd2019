@@ -74,8 +74,12 @@
   color:white;
 }
 
-.content>h2{
-  font-size:10px;
+#pages>h1{
+  font-weight:300;
+}
+
+#pages>h2{
+  font-weight:bold;
 }
 
 #pages{
@@ -88,6 +92,14 @@
   position:absolute;
   top:20%;
   left:20%;
+}
+
+#statement>h1{
+  font-weight:300
+}
+
+#statement>h2{
+  font-size:10px;
 }
 
 #body{
@@ -153,24 +165,27 @@
   z-index:1;
 }
 
+.socialMediaNavigate:link, .socialMediaNavigate:visited, .socialMediaNavigate:hover, 
+.socialMediaNavigate:active{
+  text-decoration:none;
+}
+
+
 
 #facebookIcon, #twitterIcon{
   width:20px;
   height:20px;
   margin:auto;
-  text-decoration:none;
 }
 
 #instagramIcon{
   width:12px;
   height:12px;
   margin:auto;
-  text-decoration:none;
 }
 
 #youtubeIcon{
   width:36px;
   height:27px;
   margin:auto;
-  text-decoration:none;
 }
