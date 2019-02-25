@@ -12,32 +12,38 @@
   position:absolute;
   top:0%;
   left:3%;
+  width:5%;
   z-index:2;
 }
 
 #rollsRoyceIcon{
-  width:2%;
-  height:2%;
+  width:10%;
+  height:10%;
 }
 
 #search{
   position:absolute;
   top:0%;
   right:3%;
+  width:5%;
   z-index:2;
 }
 
 #searchIcon{
-  width:2%;
-  height:2%;
+  width:10%;
+  height:10%;
+}
+
+#links{
+  text-align:justify;
 }
 
 #main{
+  display:inline-block;
   background-color:transparent;
   margin:0px auto;
   height:5%;
   width:60%;
-  text-align:justify;
   z-index:3;
 }
 
