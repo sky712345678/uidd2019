@@ -13,7 +13,7 @@
   top:0%;
   left:3%;
   width:5%;
-  height:10%
+  height:10%;
   z-index:2;
 }
 
@@ -87,18 +87,22 @@
 
 #book{
   color:white;
+  font-size:12px;
   display:block;
+  width:20%;
   transform:rotate(-90deg);
   position:absolute;
-  top:20%;
+  bottom:30%;
 }
 
 #keep{
   color:white;
+  font-size:12px;
   display:block;
+  width:20%;
   transform:rotate(-90deg);
   position:absolute;
-  bottom:20%;
+  top:30%;
 }
 
 #sidebarRight{
@@ -111,6 +115,8 @@
 }
 
 #facebookIcon, #twitterIcon, #instagramIcon, #youtubeIcon{
+  position:absolute;
+  bottom:5%;
   width:2%;
   height:2%;
   z-index:1;
