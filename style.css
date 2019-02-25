@@ -12,22 +12,28 @@
   position:absolute;
   top:0%;
   left:3%;
-  width:5%;
-  height:10%;
   z-index:2;
+}
+
+#rollsRoyceIcon{
+  width:10%;
+  height:10%;
 }
 
 #search{
   position:absolute;
   top:0%;
   right:3%;
-  width:5%;
-  height:5%;
   z-index:2;
 }
 
+#searchIcon{
+  width:10%;
+  height:10%;
+}
+
 #links{
-  display:inline-block;
+  display:block;
 }
 
 #main{
@@ -89,7 +95,6 @@
   color:white;
   font-size:12px;
   display:block;
-  width:20%;
   transform:rotate(-90deg);
   position:absolute;
   bottom:30%;
@@ -99,7 +104,6 @@
   color:white;
   font-size:12px;
   display:block;
-  width:20%;
   transform:rotate(-90deg);
   position:absolute;
   top:30%;
@@ -114,10 +118,14 @@
   z-index:1;
 }
 
-#facebookIcon, #twitterIcon, #instagramIcon, #youtubeIcon{
+#socialMedia{
   position:absolute;
   bottom:5%;
+  z-index:1;
+}
+
+
+#facebookIcon, #twitterIcon, #instagramIcon, #youtubeIcon{
   width:2%;
   height:2%;
-  z-index:1;
 }
