@@ -18,8 +18,8 @@
 }
 
 #rollsRoyceIcon{
-  width:10%;
-  height:10%;
+  width:35px;
+  height:35px;
 }
 
 #search{
@@ -48,7 +48,8 @@
   z-index:3;
 }
 
-.navigate:link, .navigate:visited, .navigate:hover, .navigate:active{
+.navigate:link, .navigate:visited, .navigate:hover, .navigate:active,
+.navigate1:link, .navigate1:visited, .navigate1:hover, .navigate1:active{
   color:white;
   font-family:Arial, sans-serif;
   font-size:12px;
@@ -80,7 +81,7 @@
 #statement{
   position:absolute;
   top:20%;
-  left:30%;
+  left:25%;
 }
 
 #body{
@@ -102,6 +103,7 @@
   width:180px;
   position:absolute;
   bottom:30%;
+  right:0%;
 }
 
 #keep{
@@ -112,6 +114,7 @@
   width:180px;
   position:absolute;
   top:30%;
+  right:0%;
 }
 
 #sidebarRight{
@@ -130,7 +133,17 @@
 }
 
 
-#facebookIcon, #twitterIcon, #instagramIcon, #youtubeIcon{
+#facebookIcon, #twitterIcon{
   width:20px;
   height:20px;
+}
+
+#instagramIcon{
+  width:10px;
+  height:10px;
+}
+
+#youtubeIcon{
+  width:36px;
+  height:27px;
 }
