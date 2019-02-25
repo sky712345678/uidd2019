@@ -39,7 +39,7 @@
 }
 
 .navigate1{
-  margin-left:20%;
+  margin-left:22%;
 }
 
 #main{
@@ -129,7 +129,7 @@
   width:240px;
   position:absolute;
   bottom:30%;
-  right:-105%;
+  right:-115%;
   border-left-width:1px;
   border-left-style:solid;
   border-left-color:white;
@@ -149,7 +149,7 @@
   width:240px;
   position:absolute;
   top:30%;
-  right:-105%;
+  right:-115%;
 }
 
 #sidebarRight{
@@ -187,7 +187,7 @@
 
 #instagramIcon{
   width:20px;
-  height:20px;
+  height:16px;
   margin:auto;
 }
 
