@@ -32,8 +32,8 @@
 }
 
 #searchIcon{
-  width:35px;
-  height:35px;
+  width:20px;
+  height:20px;
 }
 
 .navigate1{
@@ -42,11 +42,9 @@
 
 #main{
   background-color:transparent;
-  margin:0px auto;
+  margin:2.5% auto;
   height:5%;
   width:60%;
-  position:absolute;
-  top:2.5%;
   z-index:3;
 }
 
@@ -109,7 +107,7 @@
   width:180px;
   position:absolute;
   bottom:30%;
-  left:0%;
+  right:100%;
 }
 
 #keep{
@@ -120,7 +118,7 @@
   width:180px;
   position:absolute;
   top:30%;
-  left:0%;
+  right:100%;
 }
 
 #sidebarRight{
@@ -144,17 +142,14 @@
 #facebookIcon, #twitterIcon{
   width:20px;
   height:20px;
-  text-decoration:none;
 }
 
 #instagramIcon{
   width:10px;
   height:10px;
-  text-decoration:none;
 }
 
 #youtubeIcon{
   width:36px;
   height:27px;
-  text-decoration:none;
 }
