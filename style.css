@@ -39,7 +39,7 @@
 }
 
 .navigate1{
-  margin-left:24.5%;
+  margin-left:232.79px;
 }
 
 #main{
@@ -74,6 +74,10 @@
   color:white;
 }
 
+.content>h2{
+  font-size:10px;
+}
+
 #pages{
   position:absolute;
   top:20%;
@@ -106,7 +110,7 @@
   font-size:12px;
   display:block;
   transform:rotate(-90deg);
-  width:180px;
+  width:240px;
   position:absolute;
   bottom:30%;
   right:-105%;
@@ -126,7 +130,7 @@
   font-size:12px;
   display:block;
   transform:rotate(-90deg);
-  width:180px;
+  width:240px;
   position:absolute;
   top:30%;
   right:-105%;
