@@ -39,7 +39,7 @@
 }
 
 .navigate1{
-  margin-left:18%;
+  margin-left:20%;
 }
 
 #main{
@@ -79,6 +79,7 @@
 }
 
 #pages>h2{
+  font-size:12px;
   font-weight:bold;
 }
 
@@ -122,10 +123,10 @@
   font-size:12px;
   display:block;
   transform:rotate(-90deg);
-  width:300px;
+  width:280px;
   position:absolute;
   bottom:30%;
-  right:-105%;
+  right:-115%;
   border-left-width:1px;
   border-left-style:solid;
   border-left-color:white;
@@ -142,10 +143,10 @@
   font-size:12px;
   display:block;
   transform:rotate(-90deg);
-  width:300px;
+  width:280px;
   position:absolute;
   top:30%;
-  right:-105%;
+  right:-115%;
 }
 
 #sidebarRight{
@@ -170,7 +171,10 @@
   text-decoration:none;
 }
 
-
+.socialMediaNavigate{
+  width:24px;
+  height:24px;
+}
 
 #facebookIcon, #twitterIcon{
   width:20px;
