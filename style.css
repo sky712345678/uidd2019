@@ -37,7 +37,7 @@
 }
 
 .navigate1{
-  margin-left:24.494%;
+  margin-left:14.5%;
 }
 
 #main{
@@ -109,7 +109,7 @@
   width:180px;
   position:absolute;
   bottom:30%;
-  right:0%;
+  left:0%;
 }
 
 #keep{
@@ -120,7 +120,7 @@
   width:180px;
   position:absolute;
   top:30%;
-  right:0%;
+  left:0%;
 }
 
 #sidebarRight{
