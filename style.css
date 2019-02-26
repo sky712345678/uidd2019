@@ -51,7 +51,7 @@
 }
 
 .navigate:link, .navigate:visited, .navigate:hover, .navigate:active,
-.navigate1:link, .navigate1:visited, .navigate1:hover, .navigate1:active{
+.navigateMargin:link, .navigateMargin:visited, .navigateMargin:hover, .navigateMargin:active{
   color:white;
   font-family:Arial, sans-serif;
   font-size:12px;
