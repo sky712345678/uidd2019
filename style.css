@@ -130,7 +130,7 @@
   width:200px;
   position:absolute;
   bottom:30%;
-  right:-125%;
+  right:-123%;
   border-left-width:1px;
   border-left-style:solid;
   border-left-color:white;
@@ -150,7 +150,7 @@
   width:200px;
   position:absolute;
   top:30%;
-  right:-125%;
+  right:-123%;
 }
 
 #sidebarRight{
