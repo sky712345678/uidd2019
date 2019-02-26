@@ -39,7 +39,7 @@
 }
 
 .navigate1{
-  margin-left:21%;
+  margin-left:20%;
 }
 
 #main{
@@ -130,7 +130,7 @@
   width:240px;
   position:absolute;
   bottom:30%;
-  right:-125%;
+  right:-135%;
   border-left-width:1px;
   border-left-style:solid;
   border-left-color:white;
@@ -150,7 +150,7 @@
   width:240px;
   position:absolute;
   top:30%;
-  right:-125%;
+  right:-135%;
 }
 
 #sidebarRight{
