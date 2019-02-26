@@ -127,10 +127,10 @@
   font-size:12px;
   display:block;
   transform:rotate(-90deg);
-  width:240px;
+  width:200px;
   position:absolute;
   bottom:30%;
-  right:-135%;
+  right:-125%;
   border-left-width:1px;
   border-left-style:solid;
   border-left-color:white;
@@ -147,10 +147,10 @@
   font-size:12px;
   display:block;
   transform:rotate(-90deg);
-  width:240px;
+  width:200px;
   position:absolute;
   top:30%;
-  right:-135%;
+  right:-125%;
 }
 
 #sidebarRight{
